@@ -1,4 +1,4 @@
-# Section4
+# Image recognition app
 https://ngrok.com/
 
 https://streamlit.io/
